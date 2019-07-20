@@ -1,6 +1,20 @@
 # Vue
 
-[vue-router-for-everyone](https://vueschool.io/courses/vue-router-for-everyone)
+Courses
+
+* [Modern JavaScript: ES6 and beyond!](https://vueschool.io/courses/modern-javascript-es6-and-beyond)
+
+* [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
+
+* [Vue.js Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
+
+* [vue-router-for-everyone](https://vueschool.io/courses/vue-router-for-everyone)
+
+* [Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals)
+
+* [The Vue.js Master Class](https://vueschool.io/the-vuejs-master-class)
+
+* [JavaScript Testing Fundamentals](https://vueschool.io/courses/javascript-testing-fundamentals)
 
 Environment
 

@@ -13,3 +13,5 @@ Environment
 [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/ljjemllljcmogpfapbkkighbhhppjdbg?hl=en)
 
 `npm install -g @vue/cli`
+
+`vue ui`

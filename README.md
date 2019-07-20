@@ -5,3 +5,5 @@
 Environment
 
 * [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
+
+* [Vetur](https://vuejs.github.io/vetur)

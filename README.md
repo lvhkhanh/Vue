@@ -11,3 +11,5 @@ Environment
 [Vue VS Code Extension Pack]()
 
 [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/ljjemllljcmogpfapbkkighbhhppjdbg?hl=en)
+
+`npm install -g @vue/cli`

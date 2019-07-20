@@ -22,11 +22,15 @@ Environment
 
 * [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 
+Visual Studio Code Extensions
+
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
-[Vue VS Code Extension Pack]()
+* [Vue VS Code Extension Pack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack)
 
-[Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/ljjemllljcmogpfapbkkighbhhppjdbg?hl=en)
+Chrome Extension
+
+* [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/ljjemllljcmogpfapbkkighbhhppjdbg?hl=en)
 
 [Download the Node.js ](https://nodejs.org/en/download/)
 

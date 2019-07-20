@@ -10,6 +10,8 @@ Courses
 
 * [vue-router-for-everyone](https://vueschool.io/courses/vue-router-for-everyone)
 
+* [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
+
 * [Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals)
 
 * [The Vue.js Master Class](https://vueschool.io/the-vuejs-master-class)

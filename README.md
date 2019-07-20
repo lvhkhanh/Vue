@@ -22,7 +22,7 @@ Environment
 
 * [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 
-* [Vetur](https://vuejs.github.io/vetur)
+* [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 [Vue VS Code Extension Pack]()
 

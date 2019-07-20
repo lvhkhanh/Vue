@@ -28,6 +28,8 @@ Environment
 
 [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/ljjemllljcmogpfapbkkighbhhppjdbg?hl=en)
 
+[Download the Node.js ](https://nodejs.org/en/download/)
+
 `npm install -g @vue/cli`
 
 `vue ui`

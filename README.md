@@ -2,6 +2,8 @@
 
 Courses
 
+* [Beautify with Vuetify](https://www.vuemastery.com/courses/beautify-with-vuetify/getting-started-with-vuetify)
+
 * [Modern JavaScript: ES6 and beyond!](https://vueschool.io/courses/modern-javascript-es6-and-beyond)
 
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)

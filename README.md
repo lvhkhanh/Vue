@@ -26,6 +26,13 @@ Environment
 
 * [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 
+Frameworks and Pluggins
+
+* [Nuxt.js](https://nuxtjs.org)
+
+* [Vuetify](https://vuetifyjs.com/en/)
+
+
 Visual Studio Code Extensions
 
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)

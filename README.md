@@ -45,7 +45,9 @@ Chrome Extension
 
 [Download the Node.js ](https://nodejs.org/en/download/)
 
-`npm install -g @vue/cli`
+`npm install -g @vue/cli` or `yarn global add @vue/cli`
+
+`vue --version`
 
 `vue ui`
 

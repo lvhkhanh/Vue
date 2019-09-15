@@ -56,6 +56,7 @@ vue create <my-app>
 cd <my-app>
 yarn serve
 ```
+Add Router `vue add router`
 
 Add Material Design `vue add vuetify`
 

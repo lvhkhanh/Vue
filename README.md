@@ -62,4 +62,6 @@ Add Material Design `vue add vuetify`
 
 Add vue-cli-service `yarn global add @vue/cli-service`
 
+Before `yarn serve` should run `yarn install`
+
 [lvhkhanh@CodeSandbox](https://codesandbox.io/u/lvhkhanh)

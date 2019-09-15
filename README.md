@@ -57,4 +57,6 @@ cd <my-app>
 yarn serve
 ```
 
+Add Material Design `vue add vuetify`
+
 [lvhkhanh@CodeSandbox](https://codesandbox.io/u/lvhkhanh)

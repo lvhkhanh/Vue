@@ -60,4 +60,6 @@ Add Router `vue add router`
 
 Add Material Design `vue add vuetify`
 
+Add vue-cli-service `yarn global add @vue/cli-service`
+
 [lvhkhanh@CodeSandbox](https://codesandbox.io/u/lvhkhanh)

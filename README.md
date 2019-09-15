@@ -51,6 +51,10 @@ or `choco install yarn -y && refreshenv && yarn global add @vue/cli`
 
 `vue ui`
 
-`vue create <my-app>`
+```
+vue create <my-app>
+cd <my-app>
+yarn serve
+```
 
 [lvhkhanh@CodeSandbox](https://codesandbox.io/u/lvhkhanh)

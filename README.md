@@ -43,9 +43,9 @@ Chrome Extension
 
 * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/ljjemllljcmogpfapbkkighbhhppjdbg?hl=en)
 
-[Download the Node.js ](https://nodejs.org/en/download/) or `choco install nodejs -y && refreshenv`
+[Download the Node.js ](https://nodejs.org/en/download/) or `choco install nodejs -y && refreshenv && npm install -g @vue/cli`
 
-`npm install -g @vue/cli` or `yarn global add @vue/cli`
+or `choco install yarn -y && refreshenv && yarn global add @vue/cli`
 
 `vue --version`
 

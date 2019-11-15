@@ -2,6 +2,8 @@
 
 Courses
 
+* https://vue-composition-api-rfc.netlify.com/
+
 * [Vue.js Crash Course](https://courses.vuejsdevelopers.com/courses/481866/lectures/8873117)
 
 * [Beautify with Vuetify](https://www.vuemastery.com/courses/beautify-with-vuetify/getting-started-with-vuetify)

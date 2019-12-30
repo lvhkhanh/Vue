@@ -2,6 +2,8 @@
 
 Courses
 
+* [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone)
+
 * https://vue-composition-api-rfc.netlify.com/
 
 * [Vue.js Crash Course](https://courses.vuejsdevelopers.com/courses/481866/lectures/8873117)
@@ -13,8 +15,6 @@ Courses
 * [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals)
 
 * [Vue.js Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)
-
-* [vue-router-for-everyone](https://vueschool.io/courses/vue-router-for-everyone)
 
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
 

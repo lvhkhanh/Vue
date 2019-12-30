@@ -2,6 +2,8 @@
 
 Courses
 
+* [Testing Vue.js Components](https://vueschool.io/courses/learn-how-to-test-vuejs-components)
+
 * [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone)
 
 * https://vue-composition-api-rfc.netlify.com/

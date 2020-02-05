@@ -2,6 +2,8 @@
 
 Courses
 
+* [Vue 3 Reactivity 2020/02/12](https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/)
+
 * [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone)
 
 * https://vue-composition-api-rfc.netlify.com/

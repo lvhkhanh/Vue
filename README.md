@@ -28,6 +28,11 @@ Courses
 
 Integrations
 * [Announcing the Ionic Vue Beta](https://ionicframework.com/blog/announcing-the-ionic-vue-beta/)
+* [Vue Ionic Todo App](https://alligator.io/vuejs/vue-ionic/)
+
+Mobile Development
+* [Camera](https://dev.to/aaronksaunders/mobile-development-w-vuejs-and-ionic-capacitor-plugins-5fb5)
+* [Geolocation](https://www.javascripttuts.com/using-vue-with-ionic-4-and-cordova-plugins/)
 
 Vue 3 Improvements
 

@@ -26,6 +26,9 @@ Courses
 
 * [JavaScript Testing Fundamentals](https://vueschool.io/courses/javascript-testing-fundamentals)
 
+Integrations
+* [Announcing the Ionic Vue Beta](https://ionicframework.com/blog/announcing-the-ionic-vue-beta/)
+
 Vue 3 Improvements
 
 * [Vue Composition API RFC](https://vue-composition-api-rfc.netlify.com/)

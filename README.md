@@ -26,6 +26,10 @@ Courses
 
 * [JavaScript Testing Fundamentals](https://vueschool.io/courses/javascript-testing-fundamentals)
 
+Vue 3 Improvements
+
+* [Vue Composition API RFC](https://vue-composition-api-rfc.netlify.com/)
+
 Environment & Tools
 
 * [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)

@@ -26,9 +26,10 @@ Courses
 
 * [JavaScript Testing Fundamentals](https://vueschool.io/courses/javascript-testing-fundamentals)
 
-Environment
+Environment & Tools
 
 * [Download Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
+* [Vue 3 Template Explorer](https://vue-next-template-explorer.netlify.com/#%7B%22src%22%3A%22%3Cdiv%3EHello%20World!%3C%2Fdiv%3E%22%2C%22options%22%3A%7B%22mode%22%3A%22module%22%2C%22prefixIdentifiers%22%3Afalse%2C%22optimizeBindings%22%3Afalse%2C%22hoistStatic%22%3Afalse%2C%22cacheHandlers%22%3Afalse%2C%22scopeId%22%3Anull%7D%7D)
 
 Frameworks and Pluggins
 

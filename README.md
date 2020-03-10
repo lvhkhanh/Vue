@@ -51,7 +51,7 @@ Frameworks and Pluggins
 
 
 Visual Studio Code Extensions
-
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 * [Vue VS Code Extension Pack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack)

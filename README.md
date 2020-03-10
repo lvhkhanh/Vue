@@ -82,3 +82,19 @@ Add vue-cli-service `yarn global add @vue/cli-service`
 Before `yarn serve` should run `yarn install`
 
 [lvhkhanh@CodeSandbox](https://codesandbox.io/u/lvhkhanh)
+
+
+# Mockups
+## Sign in
+## Menu
+## Navigation
+## Paging
+## List
+## Filters
+## Sorting
+## CRUD
+# Technology Stack
+## VueJS
+## ExpressJS
+## NodeJS
+## MongoDB

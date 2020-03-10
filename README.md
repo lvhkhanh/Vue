@@ -98,3 +98,11 @@ Before `yarn serve` should run `yarn install`
 ## ExpressJS
 ## NodeJS
 ## MongoDB
+# n Tiers
+## Client UI/UX
+### Routes
+### Components
+### States
+## Server API
+### Routes
+### APIs

@@ -108,3 +108,40 @@ Before `yarn serve` should run `yarn install`
 ### APIs
 ## Data Access Layer
 ### Mongoose/MongoDB
+# Packages
+## vue-cli
+```
+npm install --global vue-cli
+```
+## eslint
+```
+npm install --save-dev eslint
+```
+## webpack
+```
+npm install --save-dev webpack
+```
+## axios 
+```
+npm install -s axios 
+```
+## body-parser
+```
+npm install -s body-parser 
+```
+## morgan 
+```
+npm install -s morgan
+```
+## nodemon
+```
+npm install -g nodemon
+```
+## cors
+```
+npm install -s cors
+```
+## bcryptjs
+```
+npm install -s bcryptjs
+```

@@ -47,7 +47,6 @@ Frameworks and Pluggins
 
 * [Nuxt.js](https://nuxtjs.org)
 
-* [Vuetify](https://vuetifyjs.com/en/)
 
 
 Visual Studio Code Extensions
@@ -151,3 +150,21 @@ npm install -s bcryptjs
 ## Postman
 ## Studio 3T
 ## Robo 3T
+
+# CSS
+## [Vuetify](https://vuetifyjs.com/en/)
+## [Bootstrap](Bootstrap)
+## [Vue Material]
+## [Bootstrap-Vue]
+## Element
+## Vux
+
+# API call
+## axios
+## Fetch API
+
+# Database Options
+## MongoDB
+## Firebase
+## PostgreSQL
+## Sequelize

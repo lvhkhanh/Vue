@@ -26,6 +26,22 @@ Courses
 
 * [JavaScript Testing Fundamentals](https://vueschool.io/courses/javascript-testing-fundamentals)
 
+* https://012.vuejs.org/guide/best-practices.html
+
+* https://laracasts.com/series/learn-vue-2-step-by-step
+
+* https://css-tricks.com/creating-vue-js-component-instances-programmatically/
+
+* https://vuejs.org/v2/style-guide/
+
+* https://medium.com/@luyou/right-way-to-use-vue-and-ionic-4-db8ed853e6d6
+
+* https://medium.com/js-dojo/vuejs-tips-best-practices-39d9962bb255
+
+* https://michaelnthiessen.com/26-time-saving-tips/
+
+* https://www.codecademy.com/learn/learn-vue-js (PRO)
+
 Integrations
 * [Announcing the Ionic Vue Beta](https://ionicframework.com/blog/announcing-the-ionic-vue-beta/)
 * [Vue Ionic Todo App](https://alligator.io/vuejs/vue-ionic/)
@@ -174,3 +190,6 @@ npm install -s bcryptjs
 ## Firebase
 ## PostgreSQL
 ## Sequelize
+
+# Others
+## https://socket.io/

@@ -40,6 +40,15 @@ Courses
 
 * https://michaelnthiessen.com/26-time-saving-tips/
 
+* learn-vue
+
+** https://scrimba.com/g/glearnvue
+
+** https://www.freecodecamp.org/news/learn-vue-js-in-our-free-course-85d5df41e47f/
+
+** https://www.w3schools.com/whatis/whatis_vue.asp
+
+
 * https://www.codecademy.com/learn/learn-vue-js (PRO)
 
 Integrations

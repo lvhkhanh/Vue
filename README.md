@@ -48,6 +48,16 @@ Courses
 
 ** https://www.w3schools.com/whatis/whatis_vue.asp
 
+* vue-tutorials
+
+** https://www.tutorialspoint.com/vuejs/index.htm
+
+** https://www.storyblok.com/tp/4-tutorials-start-vuejs-beginner
+
+** https://www.taniarascia.com/getting-started-with-vue/
+
+** https://www.codeinwp.com/blog/vue-js-tutorial/
+
 
 * https://www.codecademy.com/learn/learn-vue-js (PRO)
 

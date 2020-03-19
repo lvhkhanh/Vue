@@ -134,6 +134,10 @@ Before `yarn serve` should run `yarn install`
 ## MongoDB
 # n Tiers
 ## Client UI/UX
+### Multilanguages international i18n 
+
+vue-i18n
+
 ### Routes
 ### Components > Material Design > Vuetify
 ### States

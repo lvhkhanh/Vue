@@ -2,7 +2,12 @@
 
 Courses
 
-https://www.codecademy.com/learn/learn-vue-js
+[Learn Vue.js](https://www.codecademy.com/learn/learn-vue-js)
+
+## Note on Prerequisites
+### [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
+### [Learn CSS](https://www.codecademy.com/learn/learn-css)
+### [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 * [Vue 3 Reactivity 2020/02/12](https://www.vuemastery.com/courses/vue-3-reactivity/vue3-reactivity/)
 

@@ -145,6 +145,10 @@ Before `yarn serve` should run `yarn install`
 
 vue-i18n
 
+### Rich text editor
+
+https://www.npmjs.com/package/vue2-editor
+
 ### Routes
 ### Components > Material Design > Vuetify
 ### States

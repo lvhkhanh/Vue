@@ -71,6 +71,7 @@ Courses
 Integrations
 * [Announcing the Ionic Vue Beta](https://ionicframework.com/blog/announcing-the-ionic-vue-beta/)
 * [Vue Ionic Todo App](https://alligator.io/vuejs/vue-ionic/)
+* [Ionic 4 Succinctly ...](https://github.com/lvhkhanh/Ionic)
 
 Mobile Development
 * [Camera](https://dev.to/aaronksaunders/mobile-development-w-vuejs-and-ionic-capacitor-plugins-5fb5)

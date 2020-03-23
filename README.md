@@ -202,6 +202,7 @@ npm install -s bcryptjs
 ## Studio 3T
 ## Robo 3T
 ## Storybook
+## vue2-google-maps
 
 # CSS
 ## [Vuetify](https://vuetifyjs.com/en/)

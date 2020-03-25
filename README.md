@@ -211,6 +211,7 @@ npm install -s bcryptjs
 ## [Bootstrap-Vue]
 ## Element
 ## Vux
+## vue-print-nb
 
 # Animations
 ## Page Transitions

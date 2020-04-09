@@ -1,5 +1,7 @@
 # Vue
 
+## Functional Components
+
 Courses
 
 [Learn Vue.js](https://www.codecademy.com/learn/learn-vue-js)

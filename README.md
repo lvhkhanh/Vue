@@ -2,6 +2,9 @@
 ## Courses
 ### https://app.pluralsight.com/search/?q=vue
 ### [Testing Vue.js Components](https://vueschool.io/courses/learn-how-to-test-vuejs-components)
+## Test
+### https://jestjs.io/docs/en/getting-started
+### https://vue-test-utils.vuejs.org/
 
 ## Functional Components
 

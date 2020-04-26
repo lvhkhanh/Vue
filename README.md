@@ -1,4 +1,6 @@
 # Vue
+## Courses
+### [Testing Vue.js Components](https://vueschool.io/courses/learn-how-to-test-vuejs-components)
 
 ## Functional Components
 

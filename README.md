@@ -5,6 +5,19 @@
 console.time("rendering")
 console.timeEnd("rendering")
 ```
+### https://vueschool.io/courses/the-vuejs-master-class
+### https://vueschool.io/courses/vuejs-firebase-realtime-database
+### https://vueschool.io/courses/vuejs-firebase-authentication
+### https://vueschool.io/courses/vuejs-form-validation
+### https://vueschool.io/courses/dynamic-forms-vuejs
+### https://vueschool.io/courses/custom-vuejs-directives
+### https://vueschool.io/courses/static-site-generation-with-nuxtjs
+### https://vueschool.io/courses/test-with-jest
+### https://vueschool.io/courses/async-data-with-nuxtjs
+### https://vueschool.io/courses/learn-how-to-test-vuejs-components
+### https://vueschool.io/courses/vuejs-single-file-components
+### https://vueschool.io/courses/web-accessibility-fundamentals
+### https://vueschool.io/courses/modern-javascript-es6-and-beyond
 ### https://app.pluralsight.com/search/?q=vue
 ### [Testing Vue.js Components](https://vueschool.io/courses/learn-how-to-test-vuejs-components)
 ### https://codelabs.developers.google.com/codelabs/cloud-picadaily-lab4/index.html?index=..%2F..index#0

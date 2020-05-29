@@ -1,6 +1,10 @@
 # Vue
 ## Courses
 ### https://vueschool.io/courses/functional-components
+```
+console.time("rendering")
+console.timeEnd("rendering")
+```
 ### https://app.pluralsight.com/search/?q=vue
 ### [Testing Vue.js Components](https://vueschool.io/courses/learn-how-to-test-vuejs-components)
 ### https://codelabs.developers.google.com/codelabs/cloud-picadaily-lab4/index.html?index=..%2F..index#0

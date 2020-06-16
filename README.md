@@ -1,5 +1,11 @@
 # Vue
 ## Courses
+### https://www.vuemastery.com/courses/vue-3-essentials
+### https://www.vuemastery.com/courses/unit-testing
+### https://www.vuemastery.com/courses/vue-3-reactivity
+### https://www.vuemastery.com/courses/Component-Design-Patterns
+### https://www.vuemastery.com/courses/vue3-deep-dive-with-evan-you
+### https://www.vuemastery.com/courses/from-vue2-to-vue3/from-vue-2-to-vue-3
 ### https://www.vuemastery.com/courses/build-a-gmail-clone-with-vue3
 ### https://vueschool.io/courses/functional-components
 ```

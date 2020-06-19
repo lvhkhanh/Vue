@@ -265,3 +265,6 @@ npm install -s bcryptjs
 
 # Others
 ## https://socket.io/
+
+## Notes
+### Hot Module Replacement (HMR)

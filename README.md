@@ -29,6 +29,8 @@ console.timeEnd("rendering")
 ### https://app.pluralsight.com/search/?q=vue
 ### [Testing Vue.js Components](https://vueschool.io/courses/learn-how-to-test-vuejs-components)
 ### https://codelabs.developers.google.com/codelabs/cloud-picadaily-lab4/index.html?index=..%2F..index#0
+## Ebooks
+### https://www.syncfusion.com/ebooks/vuejs-succinctly
 ## Test
 ### https://jestjs.io/docs/en/getting-started
 ### https://vue-test-utils.vuejs.org/

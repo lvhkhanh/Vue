@@ -31,6 +31,8 @@ console.timeEnd("rendering")
 ### https://codelabs.developers.google.com/codelabs/cloud-picadaily-lab4/index.html?index=..%2F..index#0
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/vuejs-succinctly
+### [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2)
+### [Vue.js 2 Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/vuejs-design-patterns-and-best-practices)
 ## Test
 ### https://jestjs.io/docs/en/getting-started
 ### https://vue-test-utils.vuejs.org/

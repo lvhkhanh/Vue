@@ -280,4 +280,8 @@ npm install -s bcryptjs
 $route.query.s
 /path/:s
 $route.param.s
+<div id="app"></div>
+<div id="portalN"></div>
+<teleport to="#portalN" :disabled="!show" v-if="show">
+</teleport>
 ```

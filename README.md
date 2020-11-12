@@ -9,6 +9,7 @@
 ### https://www.vuemastery.com/courses/from-vue2-to-vue3/from-vue-2-to-vue-3
 ### https://www.vuemastery.com/courses/build-a-gmail-clone-with-vue3
 ### https://vueschool.io/courses/functional-components
+### https://www.vuemastery.com/courses/touring-vue-router 2020/12/01
 ```
 console.time("rendering")
 console.timeEnd("rendering")
@@ -274,3 +275,9 @@ npm install -s bcryptjs
 
 ## Notes
 ### Hot Module Replacement (HMR)
+```
+/path?s=<search>
+$route.query.s
+/path/:s
+$route.param.s
+```

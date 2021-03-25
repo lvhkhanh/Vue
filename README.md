@@ -286,4 +286,8 @@ $route.param.s
 <teleport to="#portalN" :disabled="!show" v-if="show">
 </teleport>
 <BaseInput v-model:modelValue="email" />
+<select v-model="selected">
+  <option v-for="option in options" :key="option.value" value="option.value">{{option.label}}</option>
+</select>
+<template #[selected]="{value}"></template>
 ```

@@ -30,6 +30,7 @@ console.timeEnd("rendering")
 ### https://app.pluralsight.com/search/?q=vue
 ### [Testing Vue.js Components](https://vueschool.io/courses/learn-how-to-test-vuejs-components)
 ### https://codelabs.developers.google.com/codelabs/cloud-picadaily-lab4/index.html?index=..%2F..index#0
+- [x] https://vueschool.io/courses/vue-js-3-components-fundamentals
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/vuejs-succinctly
 ### [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2)

@@ -4,7 +4,7 @@
 - [ ] VeeValidate
 - [ ] Vuex
 ```
-store, mutations(reducer), actions, getters(selectors)
+store(single soure of truth, global state), mutations(reducer), actions, getters(selectors)
 ```
 - [ ] Unit Testing with Jest
 ### https://vueschool.io/courses/storybook-with-vuejs

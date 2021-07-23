@@ -1,5 +1,6 @@
 # Vue
 ## Courses
+- [ ] JavaScript/TypeScript
 - [ ] PWA
 - [ ] Vue Router
 - [ ] VeeValidate

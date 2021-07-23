@@ -6,6 +6,7 @@
 - [ ] Vue Form
 - [ ] VeeValidate
 - [ ] Vuex
+- [ ] Storybook
 - [ ] Scaling
 - [ ] Vue Apollo GraphQL
 ```

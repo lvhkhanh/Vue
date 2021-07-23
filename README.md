@@ -3,6 +3,7 @@
 - [ ] JavaScript/TypeScript
 - [ ] PWA
 - [ ] Vue Router
+- [ ] Vue Form
 - [ ] VeeValidate
 - [ ] Vuex
 ```

@@ -7,6 +7,7 @@
 - [ ] VeeValidate
 - [ ] Vuex
 - [ ] Scaling
+- [ ] Vue Apollo GraphQL
 ```
 props : [p1, p2]
 props: {

@@ -13,6 +13,7 @@ store(single soure of truth, global state), mutations(reducer), actions, getters
 this.$store.state.varName
 uuidv4
 sudo npm install -global json-server
+npm install date-fns
 ```
 - [ ] Unit Testing with Jest
 ### https://vueschool.io/courses/storybook-with-vuejs

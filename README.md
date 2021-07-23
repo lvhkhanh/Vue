@@ -1,6 +1,7 @@
 # Vue
 ## Courses
 - [ ] PWA
+- [ ] Vue Router
 - [ ] VeeValidate
 - [ ] Vuex
 ```

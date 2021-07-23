@@ -9,6 +9,7 @@
 - [ ] Storybook
 - [ ] Scaling
 - [ ] Vue Apollo GraphQL
+- [ ] pug, stylus
 ```
 props : [p1, p2]
 props: {

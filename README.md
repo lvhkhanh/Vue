@@ -2,6 +2,7 @@
 ## Courses
 - [ ] PWA
 - [ ] VeeValidate
+- [ ] Unit Testing with Jest
 ### https://vueschool.io/courses/storybook-with-vuejs
 ### https://www.vuemastery.com/courses/vue-3-essentials
 ### https://www.vuemastery.com/courses/unit-testing

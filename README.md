@@ -8,6 +8,14 @@
 - [ ] Vuex
 - [ ] Scaling
 ```
+props : [p1, p2]
+props: {
+  p1: {
+    type: [t1, t2],
+    required: true,
+    default: value
+  }
+}
 v-model [(ng-model)]
 store(single soure of truth, global state), mutations(reducer), actions, getters(selectors)
 this.$store.state.varName

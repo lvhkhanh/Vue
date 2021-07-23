@@ -5,6 +5,9 @@
 - [ ] Vuex
 ```
 store(single soure of truth, global state), mutations(reducer), actions, getters(selectors)
+this.$store.state.varName
+uuidv4
+sudo npm install -global json-server
 ```
 - [ ] Unit Testing with Jest
 ### https://vueschool.io/courses/storybook-with-vuejs

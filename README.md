@@ -2,7 +2,7 @@
 ## Courses
 - [ ] JavaScript/TypeScript
 - [ ] PWA
-- [ ] Vue Router
+- [ ] Vue Router https://vueschool.io/courses/vue-router-4-for-everyone
 - [ ] Vue Form
 - [ ] VeeValidate
 - [ ] Vuex

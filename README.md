@@ -6,6 +6,7 @@
 - [ ] Vue Form
 - [ ] VeeValidate
 - [ ] Vuex
+- [ ] Scaling
 ```
 store(single soure of truth, global state), mutations(reducer), actions, getters(selectors)
 this.$store.state.varName

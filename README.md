@@ -8,6 +8,7 @@
 - [ ] Vuex
 - [ ] Scaling
 ```
+v-model [(ng-model)]
 store(single soure of truth, global state), mutations(reducer), actions, getters(selectors)
 this.$store.state.varName
 uuidv4

@@ -4,7 +4,7 @@
 - [ ] PWA
 - [x] Vue Router https://vueschool.io/courses/vue-router-4-for-everyone
 - [ ] Vue Form
-- [] Vue loading overlay
+- [x] Vue loading overlay
 - [ ] VeeValidate
 - [ ] Vuex
 - [ ] Storybook

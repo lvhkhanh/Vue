@@ -1,6 +1,7 @@
 # Vue
 ## Certificate
 https://www.codecademy.com/profiles/KhanhLVH/certificates/db927a84bf4bba96bb285ee6a85466fc Learn Vue.js Course
+- [x] Take your first steps with Vue.js
 ## Cheatsheets
 ## Courses
 - [ ] JavaScript/TypeScript

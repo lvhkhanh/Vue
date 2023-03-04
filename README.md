@@ -324,4 +324,5 @@ $route.param.s
   <option v-for="option in options" :key="option.value" value="option.value">{{option.label}}</option>
 </select>
 <template #[selected]="{value}"></template>
+<input type="checkbox" v-model="benefitsSelected" true-value="yes" false-value="no"> Benefits selected: {{ benefitsSelected }}
 ```

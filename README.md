@@ -326,4 +326,5 @@ $route.param.s
 </select>
 <template #[selected]="{value}"></template>
 <input type="checkbox" v-model="benefitsSelected" true-value="yes" false-value="no"> Benefits selected: {{ benefitsSelected }}
+/api/login => 200, {"two_factor": }
 ```

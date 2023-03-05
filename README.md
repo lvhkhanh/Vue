@@ -329,4 +329,6 @@ $route.param.s
 /api/login => 200, {"two_factor": }
 /login => useRouter().push('/me') to prevent access other users
 /logout => useRouter().replace('/login')
+/register => auto login
+Ask .push vs .replace?
 ```

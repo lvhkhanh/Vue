@@ -203,6 +203,7 @@ Before `yarn serve` should run `yarn install`
 
 
 # Mockups
+## Splitter
 ## Sign in
 ## Menu
 ## Navigation

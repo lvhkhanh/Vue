@@ -204,6 +204,7 @@ Before `yarn serve` should run `yarn install`
 
 # Mockups
 ## Splitter
+## Drag file to upload
 ## Sign in
 ## Menu
 ## Navigation

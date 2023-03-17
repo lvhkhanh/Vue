@@ -334,4 +334,5 @@ $route.param.s
 /register => auto login
 Ask .push vs .replace?
 css scoped => [data-v-xxxx]
+new URL() meta <=> import assets
 ```

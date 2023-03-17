@@ -333,4 +333,5 @@ $route.param.s
 /logout => useRouter().replace('/login')
 /register => auto login
 Ask .push vs .replace?
+css scoped => [data-v-xxxx]
 ```

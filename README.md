@@ -3,6 +3,7 @@
 https://www.codecademy.com/profiles/KhanhLVH/certificates/db927a84bf4bba96bb285ee6a85466fc Learn Vue.js Course
 - [x] Take your first steps with Vue.js
 - [x] Get started with Vue [Get started with VueAchievements - KhanhLVH _ Microsoft Learn.pdf](https://github.com/lvhkhanh/Vue/files/11017954/Get.started.with.VueAchievements.-.KhanhLVH._.Microsoft.Learn.pdf)
+- [x] Dynamic page displays with Vue.js [Dynamic page displays with Vue.jsAchievements - KhanhLVH _ Microsoft Learn.pdf](https://github.com/lvhkhanh/Vue/files/11018169/Dynamic.page.displays.with.Vue.jsAchievements.-.KhanhLVH._.Microsoft.Learn.pdf)
 
 ## Cheatsheets
 ## Courses

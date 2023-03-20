@@ -6,6 +6,8 @@ https://www.codecademy.com/profiles/KhanhLVH/certificates/db927a84bf4bba96bb285e
 - [x] Dynamic page displays with Vue.js [Dynamic page displays with Vue.jsAchievements - KhanhLVH _ Microsoft Learn.pdf](https://github.com/lvhkhanh/Vue/files/11018169/Dynamic.page.displays.with.Vue.jsAchievements.-.KhanhLVH._.Microsoft.Learn.pdf)
 - [x] Work with data and events in Vue.js [Work with data and events in Vue.jsAchievements - KhanhLVH _ Microsoft Learn.pdf](https://github.com/lvhkhanh/Vue/files/11018195/Work.with.data.and.events.in.Vue.jsAchievements.-.KhanhLVH._.Microsoft.Learn.pdf)
 - [x] Getting started with Vue CLI and single-file components in Vue.js. [Getting started with Vue CLI and single-file components in Vue.js.Achievements - KhanhLVH _ Microsoft Learn.pdf](https://github.com/lvhkhanh/Vue/files/11018212/Getting.started.with.Vue.CLI.and.single-file.components.in.Vue.js.Achievements.-.KhanhLVH._.Microsoft.Learn.pdf)
+- [x] Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps [Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web AppsAchievements - KhanhLVH _ Microsoft Learn.pdf](https://github.com/lvhkhanh/Vue/files/11018236/Publish.an.Angular.React.Svelte.or.Vue.JavaScript.app.with.Azure.Static.Web.AppsAchievements.-.KhanhLVH._.Microsoft.Learn.pdf)
+
 
 
 
